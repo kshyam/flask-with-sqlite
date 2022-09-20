@@ -1,5 +1,12 @@
 # flask-with-sqlite
 
+Clone this Repo
+
+```
+git clone git@github.com:kshyam/flask-with-sqlite.git
+cd flask-with-sqlite
+```
+
 > Create Database using Python Sctipt
 
 ``` 
