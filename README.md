@@ -14,6 +14,7 @@ https://github.com/kshyam/flask-with-sqlite/archive/refs/heads/main.zip
 
 ```
 
+cd flask-with-sqlite
 
 > Create Database using Python Sctipt
 
